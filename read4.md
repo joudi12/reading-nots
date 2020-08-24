@@ -10,7 +10,7 @@
 ###### before do your site
 ## html css
 ###### all of us see the site but how it make????.
-######html will make the structuars and css will stylle our bag  
+###### html will make the structuars and css will stylle our bag  
 ###### in html and css there is alot of employs we have to use it to make our page
 ## elements
 ###### The new HTML5 elements indicate the purpose of  X different parts of a web page and help to describe
