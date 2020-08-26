@@ -9,10 +9,10 @@
 ###### To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task 
 ###### also each time the script runs, it might only use a subset of all the instructions. 
 ## RULES FOR NAMING VARIABLES
-1.The name must begin with a lette
-2.The name can contain letters, numbers
-3.You cannot use keywords or reserved words
-4.Use a name that describes the kind of information that the variable stores
+- The name must begin with a lette
+- The name can contain letters, numbers
+- You cannot use keywords or reserved words
+- Use a name that describes the kind of information that the variable stores
 ....
 ## A BASIC FUNCTION
 ##### to great a function you givr it a name then read the statement you want to achieve it is task inside the curly braces 
