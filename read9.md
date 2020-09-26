@@ -22,3 +22,6 @@
 #### It writes out the 5 times table. Each time the loop is run, another calculation is written into the variable called msg.
 ##### tha is for today i hope you take benifit
 **joudi awameh ** 
+
+
+
